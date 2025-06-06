@@ -1,0 +1,62 @@
+{
+  "123": {
+    "Line Name": "Broadway - Seventh Ave.",
+    "Name Order": ["1", "2", "3"],
+    "Express": ["2", "3"],
+    "Local": ["1"]
+  },
+  "456": {
+    "Line Name": "Lexington Ave.",
+    "Name Order": ["4", "5", "6"],
+    "Express": ["4", "5"],
+    "Local": ["6"]
+  },
+  "7": {
+    "Line Name": "Flushing",
+    "Name Order": ["7"],
+    "Express": ["7"],
+    "Local": ["7"]
+  },
+  "ACE": {
+    "Line Name": "Eighth Ave.",
+    "Name Order": ["A", "C", "E"],
+    "Express": ["A", "E"],
+    "Local": ["C"]
+  },
+  "BDFM": {
+    "Line Name": "Sixth Ave.",
+    "Name Order": ["B", "D", "F", "M"],
+    "Express": ["B", "D"],
+    "Local": ["F", "M"]
+  },
+  "NQRW": {
+    "Line Name": "Broadway",
+    "Name Order": ["N", "Q", "R", "W"],
+    "Express": ["N", "Q"],
+    "Local": ["R", "W"]
+  },
+  "JZ": {
+    "Line Name": "Nassau St.",
+    "Name Order": ["J", "Z"],
+    "Express": ["J", "Z"],
+    "Local": []
+  },
+  "L": {
+    "Line Name": "Canarsie",
+    "Name Order": ["L"],
+    "Express": [],
+    "Local": ["L"]
+  },
+  "G": {
+    "Line Name": "Crosstown",
+    "Name Order": ["G"],
+    "Express": [],
+    "Local": ["G"]
+  },
+  "S": {
+    "Line Name": "Various Shuttles",
+    "Name Order": ["S"],
+    "Express": [],
+    "Local": ["S"]
+  }
+}

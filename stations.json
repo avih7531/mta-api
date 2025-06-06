@@ -1,0 +1,2960 @@
+{
+  "101": {
+    "stop_name": "Van Cortlandt Park - 242 St",
+    "stop_coordinates": "40.889248,-73.898583",
+    "n_ID": "101N",
+    "s_ID": "101S"
+  },
+  "103": {
+    "stop_name": "238 St",
+    "stop_coordinates": "40.884667,-73.90087",
+    "n_ID": "103N",
+    "s_ID": "103S"
+  },
+  "104": {
+    "stop_name": "231 St",
+    "stop_coordinates": "40.878856,-73.904834",
+    "n_ID": "104N",
+    "s_ID": "104S"
+  },
+  "106": {
+    "stop_name": "Marble Hill - 225 St",
+    "stop_coordinates": "40.874561,-73.909831",
+    "n_ID": "106N",
+    "s_ID": "106S"
+  },
+  "107": {
+    "stop_name": "215 St",
+    "stop_coordinates": "40.869444,-73.915279",
+    "n_ID": "107N",
+    "s_ID": "107S"
+  },
+  "108": {
+    "stop_name": "207 St",
+    "stop_coordinates": "40.864621,-73.918822",
+    "n_ID": "108N",
+    "s_ID": "108S"
+  },
+  "109": {
+    "stop_name": "Dyckman St",
+    "stop_coordinates": "40.860531,-73.925536",
+    "n_ID": "109N",
+    "s_ID": "109S"
+  },
+  "110": {
+    "stop_name": "191 St",
+    "stop_coordinates": "40.855225,-73.929412",
+    "n_ID": "110N",
+    "s_ID": "110S"
+  },
+  "111": {
+    "stop_name": "181 St",
+    "stop_coordinates": "40.849505,-73.933596",
+    "n_ID": "111N",
+    "s_ID": "111S"
+  },
+  "112": {
+    "stop_name": "168 St - Washington Hts",
+    "stop_coordinates": "40.840556,-73.940133",
+    "n_ID": "112N",
+    "s_ID": "112S"
+  },
+  "113": {
+    "stop_name": "157 St",
+    "stop_coordinates": "40.834041,-73.94489",
+    "n_ID": "113N",
+    "s_ID": "113S"
+  },
+  "114": {
+    "stop_name": "145 St",
+    "stop_coordinates": "40.826551,-73.95036",
+    "n_ID": "114N",
+    "s_ID": "114S"
+  },
+  "115": {
+    "stop_name": "137 St - City College",
+    "stop_coordinates": "40.822008,-73.953676",
+    "n_ID": "115N",
+    "s_ID": "115S"
+  },
+  "116": {
+    "stop_name": "125 St",
+    "stop_coordinates": "40.815581,-73.958372",
+    "n_ID": "116N",
+    "s_ID": "116S"
+  },
+  "117": {
+    "stop_name": "116 St - Columbia University",
+    "stop_coordinates": "40.807722,-73.96411",
+    "n_ID": "117N",
+    "s_ID": "117S"
+  },
+  "118": {
+    "stop_name": "Cathedral Pkwy",
+    "stop_coordinates": "40.803967,-73.966847",
+    "n_ID": "118N",
+    "s_ID": "118S"
+  },
+  "119": {
+    "stop_name": "103 St",
+    "stop_coordinates": "40.799446,-73.968379",
+    "n_ID": "119N",
+    "s_ID": "119S"
+  },
+  "120": {
+    "stop_name": "96 St",
+    "stop_coordinates": "40.793919,-73.972323",
+    "n_ID": "120N",
+    "s_ID": "120S"
+  },
+  "121": {
+    "stop_name": "86 St",
+    "stop_coordinates": "40.788644,-73.976218",
+    "n_ID": "121N",
+    "s_ID": "121S"
+  },
+  "122": {
+    "stop_name": "79 St",
+    "stop_coordinates": "40.783934,-73.979917",
+    "n_ID": "122N",
+    "s_ID": "122S"
+  },
+  "123": {
+    "stop_name": "72 St",
+    "stop_coordinates": "40.778453,-73.98197",
+    "n_ID": "123N",
+    "s_ID": "123S"
+  },
+  "124": {
+    "stop_name": "66 St - Lincoln Center",
+    "stop_coordinates": "40.77344,-73.982209",
+    "n_ID": "124N",
+    "s_ID": "124S"
+  },
+  "125": {
+    "stop_name": "59 St - Columbus Circle",
+    "stop_coordinates": "40.768247,-73.981929",
+    "n_ID": "125N",
+    "s_ID": "125S"
+  },
+  "126": {
+    "stop_name": "50 St",
+    "stop_coordinates": "40.761728,-73.983849",
+    "n_ID": "126N",
+    "s_ID": "126S"
+  },
+  "127": {
+    "stop_name": "Times Sq - 42 St",
+    "stop_coordinates": "40.75529,-73.987495",
+    "n_ID": "127N",
+    "s_ID": "127S"
+  },
+  "128": {
+    "stop_name": "34 St - Penn Station",
+    "stop_coordinates": "40.750373,-73.991057",
+    "n_ID": "128N",
+    "s_ID": "128S"
+  },
+  "129": {
+    "stop_name": "28 St",
+    "stop_coordinates": "40.747215,-73.993365",
+    "n_ID": "129N",
+    "s_ID": "129S"
+  },
+  "130": {
+    "stop_name": "23 St",
+    "stop_coordinates": "40.744081,-73.995657",
+    "n_ID": "130N",
+    "s_ID": "130S"
+  },
+  "131": {
+    "stop_name": "18 St",
+    "stop_coordinates": "40.74104,-73.997871",
+    "n_ID": "131N",
+    "s_ID": "131S"
+  },
+  "132": {
+    "stop_name": "14 St",
+    "stop_coordinates": "40.737826,-74.000201",
+    "n_ID": "132N",
+    "s_ID": "132S"
+  },
+  "133": {
+    "stop_name": "Christopher St - Sheridan Sq",
+    "stop_coordinates": "40.733422,-74.002906",
+    "n_ID": "133N",
+    "s_ID": "133S"
+  },
+  "134": {
+    "stop_name": "Houston St",
+    "stop_coordinates": "40.728251,-74.005367",
+    "n_ID": "134N",
+    "s_ID": "134S"
+  },
+  "135": {
+    "stop_name": "Canal St",
+    "stop_coordinates": "40.722854,-74.006277",
+    "n_ID": "135N",
+    "s_ID": "135S"
+  },
+  "136": {
+    "stop_name": "Franklin St",
+    "stop_coordinates": "40.719318,-74.006886",
+    "n_ID": "136N",
+    "s_ID": "136S"
+  },
+  "137": {
+    "stop_name": "Chambers St",
+    "stop_coordinates": "40.715478,-74.009266",
+    "n_ID": "137N",
+    "s_ID": "137S"
+  },
+  "138": {
+    "stop_name": "Cortlandt St",
+    "stop_coordinates": "40.711835,-74.012188",
+    "n_ID": "138N",
+    "s_ID": "138S"
+  },
+  "139": {
+    "stop_name": "Rector St",
+    "stop_coordinates": "40.707513,-74.013783",
+    "n_ID": "139N",
+    "s_ID": "139S"
+  },
+  "140": {
+    "stop_name": "South Ferry Loop",
+    "stop_coordinates": "40.701411,-74.013205",
+    "n_ID": "140N",
+    "s_ID": "140S"
+  },
+  "201": {
+    "stop_name": "Wakefield - 241 St",
+    "stop_coordinates": "40.903125,-73.85062",
+    "n_ID": "201N",
+    "s_ID": "201S"
+  },
+  "204": {
+    "stop_name": "Nereid Av",
+    "stop_coordinates": "40.898379,-73.854376",
+    "n_ID": "204N",
+    "s_ID": "204S"
+  },
+  "205": {
+    "stop_name": "233 St",
+    "stop_coordinates": "40.893193,-73.857473",
+    "n_ID": "205N",
+    "s_ID": "205S"
+  },
+  "206": {
+    "stop_name": "225 St",
+    "stop_coordinates": "40.888022,-73.860341",
+    "n_ID": "206N",
+    "s_ID": "206S"
+  },
+  "207": {
+    "stop_name": "219 St",
+    "stop_coordinates": "40.883895,-73.862633",
+    "n_ID": "207N",
+    "s_ID": "207S"
+  },
+  "208": {
+    "stop_name": "Gun Hill Rd",
+    "stop_coordinates": "40.87785,-73.866256",
+    "n_ID": "208N",
+    "s_ID": "208S"
+  },
+  "209": {
+    "stop_name": "Burke Av",
+    "stop_coordinates": "40.871356,-73.867164",
+    "n_ID": "209N",
+    "s_ID": "209S"
+  },
+  "210": {
+    "stop_name": "Allerton Av",
+    "stop_coordinates": "40.865462,-73.867352",
+    "n_ID": "210N",
+    "s_ID": "210S"
+  },
+  "211": {
+    "stop_name": "Pelham Pkwy",
+    "stop_coordinates": "40.857192,-73.867615",
+    "n_ID": "211N",
+    "s_ID": "211S"
+  },
+  "212": {
+    "stop_name": "Bronx Park East",
+    "stop_coordinates": "40.848828,-73.868457",
+    "n_ID": "212N",
+    "s_ID": "212S"
+  },
+  "213": {
+    "stop_name": "E 180 St",
+    "stop_coordinates": "40.841894,-73.873488",
+    "n_ID": "213N",
+    "s_ID": "213S"
+  },
+  "214": {
+    "stop_name": "West Farms Sq - E Tremont Av",
+    "stop_coordinates": "40.840295,-73.880049",
+    "n_ID": "214N",
+    "s_ID": "214S"
+  },
+  "215": {
+    "stop_name": "174 St",
+    "stop_coordinates": "40.837288,-73.887734",
+    "n_ID": "215N",
+    "s_ID": "215S"
+  },
+  "216": {
+    "stop_name": "Freeman St",
+    "stop_coordinates": "40.829993,-73.891865",
+    "n_ID": "216N",
+    "s_ID": "216S"
+  },
+  "217": {
+    "stop_name": "Simpson St",
+    "stop_coordinates": "40.824073,-73.893064",
+    "n_ID": "217N",
+    "s_ID": "217S"
+  },
+  "218": {
+    "stop_name": "Intervale Av",
+    "stop_coordinates": "40.822181,-73.896736",
+    "n_ID": "218N",
+    "s_ID": "218S"
+  },
+  "219": {
+    "stop_name": "Prospect Av",
+    "stop_coordinates": "40.819585,-73.90177",
+    "n_ID": "219N",
+    "s_ID": "219S"
+  },
+  "220": {
+    "stop_name": "Jackson Av",
+    "stop_coordinates": "40.81649,-73.907807",
+    "n_ID": "220N",
+    "s_ID": "220S"
+  },
+  "221": {
+    "stop_name": "3 Av - 149 St",
+    "stop_coordinates": "40.816109,-73.917757",
+    "n_ID": "221N",
+    "s_ID": "221S"
+  },
+  "222": {
+    "stop_name": "149 St - Grand Concourse",
+    "stop_coordinates": "40.81841,-73.926718",
+    "n_ID": "222N",
+    "s_ID": "222S"
+  },
+  "224": {
+    "stop_name": "135 St",
+    "stop_coordinates": "40.814229,-73.94077",
+    "n_ID": "224N",
+    "s_ID": "224S"
+  },
+  "225": {
+    "stop_name": "125 St",
+    "stop_coordinates": "40.807754,-73.945495",
+    "n_ID": "225N",
+    "s_ID": "225S"
+  },
+  "226": {
+    "stop_name": "116 St",
+    "stop_coordinates": "40.802098,-73.949625",
+    "n_ID": "226N",
+    "s_ID": "226S"
+  },
+  "227": {
+    "stop_name": "Central Park North (110 St)",
+    "stop_coordinates": "40.799075,-73.951822",
+    "n_ID": "227N",
+    "s_ID": "227S"
+  },
+  "228": {
+    "stop_name": "Park Pl",
+    "stop_coordinates": "40.713051,-74.008811",
+    "n_ID": "228N",
+    "s_ID": "228S"
+  },
+  "229": {
+    "stop_name": "Fulton St",
+    "stop_coordinates": "40.709416,-74.006571",
+    "n_ID": "229N",
+    "s_ID": "229S"
+  },
+  "230": {
+    "stop_name": "Wall St",
+    "stop_coordinates": "40.706821,-74.0091",
+    "n_ID": "230N",
+    "s_ID": "230S"
+  },
+  "231": {
+    "stop_name": "Clark St",
+    "stop_coordinates": "40.697466,-73.993086",
+    "n_ID": "231N",
+    "s_ID": "231S"
+  },
+  "232": {
+    "stop_name": "Borough Hall",
+    "stop_coordinates": "40.693219,-73.989998",
+    "n_ID": "232N",
+    "s_ID": "232S"
+  },
+  "233": {
+    "stop_name": "Hoyt St",
+    "stop_coordinates": "40.690545,-73.985065",
+    "n_ID": "233N",
+    "s_ID": "233S"
+  },
+  "234": {
+    "stop_name": "Nevins St",
+    "stop_coordinates": "40.688246,-73.980492",
+    "n_ID": "234N",
+    "s_ID": "234S"
+  },
+  "235": {
+    "stop_name": "Atlantic Av - Barclays Ctr",
+    "stop_coordinates": "40.684359,-73.977666",
+    "n_ID": "235N",
+    "s_ID": "235S"
+  },
+  "236": {
+    "stop_name": "Bergen St",
+    "stop_coordinates": "40.680829,-73.975098",
+    "n_ID": "236N",
+    "s_ID": "236S"
+  },
+  "237": {
+    "stop_name": "Grand Army Plaza",
+    "stop_coordinates": "40.675235,-73.971046",
+    "n_ID": "237N",
+    "s_ID": "237S"
+  },
+  "238": {
+    "stop_name": "Eastern Pkwy - Brooklyn Museum",
+    "stop_coordinates": "40.671987,-73.964375",
+    "n_ID": "238N",
+    "s_ID": "238S"
+  },
+  "239": {
+    "stop_name": "Franklin Av",
+    "stop_coordinates": "40.670682,-73.958131",
+    "n_ID": "239N",
+    "s_ID": "239S"
+  },
+  "241": {
+    "stop_name": "President St",
+    "stop_coordinates": "40.667883,-73.950683",
+    "n_ID": "241N",
+    "s_ID": "241S"
+  },
+  "242": {
+    "stop_name": "Sterling St",
+    "stop_coordinates": "40.662742,-73.95085",
+    "n_ID": "242N",
+    "s_ID": "242S"
+  },
+  "243": {
+    "stop_name": "Winthrop St",
+    "stop_coordinates": "40.656652,-73.9502",
+    "n_ID": "243N",
+    "s_ID": "243S"
+  },
+  "244": {
+    "stop_name": "Church Av",
+    "stop_coordinates": "40.650843,-73.949575",
+    "n_ID": "244N",
+    "s_ID": "244S"
+  },
+  "245": {
+    "stop_name": "Beverly Rd",
+    "stop_coordinates": "40.645098,-73.948959",
+    "n_ID": "245N",
+    "s_ID": "245S"
+  },
+  "246": {
+    "stop_name": "Newkirk Av",
+    "stop_coordinates": "40.639967,-73.948411",
+    "n_ID": "246N",
+    "s_ID": "246S"
+  },
+  "247": {
+    "stop_name": "Flatbush Av - Brooklyn College",
+    "stop_coordinates": "40.632836,-73.947642",
+    "n_ID": "247N",
+    "s_ID": "247S"
+  },
+  "248": {
+    "stop_name": "Nostrand Av",
+    "stop_coordinates": "40.669847,-73.950466",
+    "n_ID": "248N",
+    "s_ID": "248S"
+  },
+  "249": {
+    "stop_name": "Kingston Av",
+    "stop_coordinates": "40.669399,-73.942161",
+    "n_ID": "249N",
+    "s_ID": "249S"
+  },
+  "250": {
+    "stop_name": "Crown Hts - Utica Av",
+    "stop_coordinates": "40.668897,-73.932942",
+    "n_ID": "250N",
+    "s_ID": "250S"
+  },
+  "251": {
+    "stop_name": "Sutter Av - Rutland Rd",
+    "stop_coordinates": "40.664717,-73.92261",
+    "n_ID": "251N",
+    "s_ID": "251S"
+  },
+  "252": {
+    "stop_name": "Saratoga Av",
+    "stop_coordinates": "40.661453,-73.916327",
+    "n_ID": "252N",
+    "s_ID": "252S"
+  },
+  "253": {
+    "stop_name": "Rockaway Av",
+    "stop_coordinates": "40.662549,-73.908946",
+    "n_ID": "253N",
+    "s_ID": "253S"
+  },
+  "254": {
+    "stop_name": "Junius St",
+    "stop_coordinates": "40.663515,-73.902447",
+    "n_ID": "254N",
+    "s_ID": "254S"
+  },
+  "255": {
+    "stop_name": "Pennsylvania Av",
+    "stop_coordinates": "40.664635,-73.894895",
+    "n_ID": "255N",
+    "s_ID": "255S"
+  },
+  "256": {
+    "stop_name": "Van Siclen Av",
+    "stop_coordinates": "40.665449,-73.889395",
+    "n_ID": "256N",
+    "s_ID": "256S"
+  },
+  "257": {
+    "stop_name": "New Lots Av",
+    "stop_coordinates": "40.666235,-73.884079",
+    "n_ID": "257N",
+    "s_ID": "257S"
+  },
+  "301": {
+    "stop_name": "Harlem - 148 St",
+    "stop_coordinates": "40.82388,-73.93647",
+    "n_ID": "301N",
+    "s_ID": "301S"
+  },
+  "302": {
+    "stop_name": "145 St",
+    "stop_coordinates": "40.820421,-73.936245",
+    "n_ID": "302N",
+    "s_ID": "302S"
+  },
+  "401": {
+    "stop_name": "Woodlawn",
+    "stop_coordinates": "40.886037,-73.878751",
+    "n_ID": "401N",
+    "s_ID": "401S"
+  },
+  "402": {
+    "stop_name": "Mosholu Pkwy",
+    "stop_coordinates": "40.87975,-73.884655",
+    "n_ID": "402N",
+    "s_ID": "402S"
+  },
+  "405": {
+    "stop_name": "Bedford Park Blvd - Lehman College",
+    "stop_coordinates": "40.873412,-73.890064",
+    "n_ID": "405N",
+    "s_ID": "405S"
+  },
+  "406": {
+    "stop_name": "Kingsbridge Rd",
+    "stop_coordinates": "40.86776,-73.897174",
+    "n_ID": "406N",
+    "s_ID": "406S"
+  },
+  "407": {
+    "stop_name": "Fordham Rd",
+    "stop_coordinates": "40.862803,-73.901034",
+    "n_ID": "407N",
+    "s_ID": "407S"
+  },
+  "408": {
+    "stop_name": "183 St",
+    "stop_coordinates": "40.858407,-73.903879",
+    "n_ID": "408N",
+    "s_ID": "408S"
+  },
+  "409": {
+    "stop_name": "Burnside Av",
+    "stop_coordinates": "40.853453,-73.907684",
+    "n_ID": "409N",
+    "s_ID": "409S"
+  },
+  "410": {
+    "stop_name": "176 St",
+    "stop_coordinates": "40.84848,-73.911794",
+    "n_ID": "410N",
+    "s_ID": "410S"
+  },
+  "411": {
+    "stop_name": "Mt Eden Av",
+    "stop_coordinates": "40.844434,-73.914685",
+    "n_ID": "411N",
+    "s_ID": "411S"
+  },
+  "412": {
+    "stop_name": "170 St",
+    "stop_coordinates": "40.840075,-73.917791",
+    "n_ID": "412N",
+    "s_ID": "412S"
+  },
+  "413": {
+    "stop_name": "167 St",
+    "stop_coordinates": "40.835537,-73.9214",
+    "n_ID": "413N",
+    "s_ID": "413S"
+  },
+  "414": {
+    "stop_name": "161 St - Yankee Stadium",
+    "stop_coordinates": "40.827994,-73.925831",
+    "n_ID": "414N",
+    "s_ID": "414S"
+  },
+  "415": {
+    "stop_name": "149 St - Grand Concourse",
+    "stop_coordinates": "40.818375,-73.927351",
+    "n_ID": "415N",
+    "s_ID": "415S"
+  },
+  "416": {
+    "stop_name": "138 St - Grand Concourse",
+    "stop_coordinates": "40.813224,-73.929849",
+    "n_ID": "416N",
+    "s_ID": "416S"
+  },
+  "418": {
+    "stop_name": "Fulton St",
+    "stop_coordinates": "40.710368,-74.009509",
+    "n_ID": "418N",
+    "s_ID": "418S"
+  },
+  "419": {
+    "stop_name": "Wall St",
+    "stop_coordinates": "40.707557,-74.011862",
+    "n_ID": "419N",
+    "s_ID": "419S"
+  },
+  "420": {
+    "stop_name": "Bowling Green",
+    "stop_coordinates": "40.704817,-74.014065",
+    "n_ID": "420N",
+    "s_ID": "420S"
+  },
+  "423": {
+    "stop_name": "Borough Hall",
+    "stop_coordinates": "40.692404,-73.990151",
+    "n_ID": "423N",
+    "s_ID": "423S"
+  },
+  "501": {
+    "stop_name": "Eastchester - Dyre Av",
+    "stop_coordinates": "40.8883,-73.830834",
+    "n_ID": "501N",
+    "s_ID": "501S"
+  },
+  "502": {
+    "stop_name": "Baychester Av",
+    "stop_coordinates": "40.878663,-73.838591",
+    "n_ID": "502N",
+    "s_ID": "502S"
+  },
+  "503": {
+    "stop_name": "Gun Hill Rd",
+    "stop_coordinates": "40.869526,-73.846384",
+    "n_ID": "503N",
+    "s_ID": "503S"
+  },
+  "504": {
+    "stop_name": "Pelham Pkwy",
+    "stop_coordinates": "40.858985,-73.855359",
+    "n_ID": "504N",
+    "s_ID": "504S"
+  },
+  "505": {
+    "stop_name": "Morris Park",
+    "stop_coordinates": "40.854364,-73.860495",
+    "n_ID": "505N",
+    "s_ID": "505S"
+  },
+  "601": {
+    "stop_name": "Pelham Bay Park",
+    "stop_coordinates": "40.852462,-73.828121",
+    "n_ID": "601N",
+    "s_ID": "601S"
+  },
+  "602": {
+    "stop_name": "Buhre Av",
+    "stop_coordinates": "40.84681,-73.832569",
+    "n_ID": "602N",
+    "s_ID": "602S"
+  },
+  "603": {
+    "stop_name": "Middletown Rd",
+    "stop_coordinates": "40.843863,-73.836322",
+    "n_ID": "603N",
+    "s_ID": "603S"
+  },
+  "604": {
+    "stop_name": "Westchester Sq - E Tremont Av",
+    "stop_coordinates": "40.839892,-73.842952",
+    "n_ID": "604N",
+    "s_ID": "604S"
+  },
+  "606": {
+    "stop_name": "Zerega Av",
+    "stop_coordinates": "40.836488,-73.847036",
+    "n_ID": "606N",
+    "s_ID": "606S"
+  },
+  "607": {
+    "stop_name": "Castle Hill Av",
+    "stop_coordinates": "40.834255,-73.851222",
+    "n_ID": "607N",
+    "s_ID": "607S"
+  },
+  "608": {
+    "stop_name": "Parkchester",
+    "stop_coordinates": "40.833226,-73.860816",
+    "n_ID": "608N",
+    "s_ID": "608S"
+  },
+  "609": {
+    "stop_name": "St Lawrence Av",
+    "stop_coordinates": "40.831509,-73.867618",
+    "n_ID": "609N",
+    "s_ID": "609S"
+  },
+  "610": {
+    "stop_name": "Morrison Av- Sound View",
+    "stop_coordinates": "40.829521,-73.874516",
+    "n_ID": "610N",
+    "s_ID": "610S"
+  },
+  "611": {
+    "stop_name": "Elder Av",
+    "stop_coordinates": "40.828584,-73.879159",
+    "n_ID": "611N",
+    "s_ID": "611S"
+  },
+  "612": {
+    "stop_name": "Whitlock Av",
+    "stop_coordinates": "40.826525,-73.886283",
+    "n_ID": "612N",
+    "s_ID": "612S"
+  },
+  "613": {
+    "stop_name": "Hunts Point Av",
+    "stop_coordinates": "40.820948,-73.890549",
+    "n_ID": "613N",
+    "s_ID": "613S"
+  },
+  "614": {
+    "stop_name": "Longwood Av",
+    "stop_coordinates": "40.816104,-73.896435",
+    "n_ID": "614N",
+    "s_ID": "614S"
+  },
+  "615": {
+    "stop_name": "E 149 St",
+    "stop_coordinates": "40.812118,-73.904098",
+    "n_ID": "615N",
+    "s_ID": "615S"
+  },
+  "616": {
+    "stop_name": "E 143 St - St Mary's St",
+    "stop_coordinates": "40.808719,-73.907657",
+    "n_ID": "616N",
+    "s_ID": "616S"
+  },
+  "617": {
+    "stop_name": "Cypress Av",
+    "stop_coordinates": "40.805368,-73.914042",
+    "n_ID": "617N",
+    "s_ID": "617S"
+  },
+  "618": {
+    "stop_name": "Brook Av",
+    "stop_coordinates": "40.807566,-73.91924",
+    "n_ID": "618N",
+    "s_ID": "618S"
+  },
+  "619": {
+    "stop_name": "3 Av - 138 St",
+    "stop_coordinates": "40.810476,-73.926138",
+    "n_ID": "619N",
+    "s_ID": "619S"
+  },
+  "621": {
+    "stop_name": "125 St",
+    "stop_coordinates": "40.804138,-73.937594",
+    "n_ID": "621N",
+    "s_ID": "621S"
+  },
+  "622": {
+    "stop_name": "116 St",
+    "stop_coordinates": "40.798629,-73.941617",
+    "n_ID": "622N",
+    "s_ID": "622S"
+  },
+  "623": {
+    "stop_name": "110 St",
+    "stop_coordinates": "40.79502,-73.94425",
+    "n_ID": "623N",
+    "s_ID": "623S"
+  },
+  "624": {
+    "stop_name": "103 St",
+    "stop_coordinates": "40.7906,-73.947478",
+    "n_ID": "624N",
+    "s_ID": "624S"
+  },
+  "625": {
+    "stop_name": "96 St",
+    "stop_coordinates": "40.785672,-73.95107",
+    "n_ID": "625N",
+    "s_ID": "625S"
+  },
+  "626": {
+    "stop_name": "86 St",
+    "stop_coordinates": "40.779492,-73.955589",
+    "n_ID": "626N",
+    "s_ID": "626S"
+  },
+  "627": {
+    "stop_name": "77 St",
+    "stop_coordinates": "40.77362,-73.959874",
+    "n_ID": "627N",
+    "s_ID": "627S"
+  },
+  "628": {
+    "stop_name": "68 St - Hunter College",
+    "stop_coordinates": "40.768141,-73.96387",
+    "n_ID": "628N",
+    "s_ID": "628S"
+  },
+  "629": {
+    "stop_name": "59 St",
+    "stop_coordinates": "40.762526,-73.967967",
+    "n_ID": "629N",
+    "s_ID": "629S"
+  },
+  "630": {
+    "stop_name": "51 St",
+    "stop_coordinates": "40.757107,-73.97192",
+    "n_ID": "630N",
+    "s_ID": "630S"
+  },
+  "631": {
+    "stop_name": "Grand Central - 42 St",
+    "stop_coordinates": "40.751776,-73.976848",
+    "n_ID": "631N",
+    "s_ID": "631S"
+  },
+  "632": {
+    "stop_name": "33 St",
+    "stop_coordinates": "40.746081,-73.982076",
+    "n_ID": "632N",
+    "s_ID": "632S"
+  },
+  "633": {
+    "stop_name": "28 St",
+    "stop_coordinates": "40.74307,-73.984264",
+    "n_ID": "633N",
+    "s_ID": "633S"
+  },
+  "634": {
+    "stop_name": "23 St",
+    "stop_coordinates": "40.739864,-73.986599",
+    "n_ID": "634N",
+    "s_ID": "634S"
+  },
+  "635": {
+    "stop_name": "14 St - Union Sq",
+    "stop_coordinates": "40.734673,-73.989951",
+    "n_ID": "635N",
+    "s_ID": "635S"
+  },
+  "636": {
+    "stop_name": "Astor Pl",
+    "stop_coordinates": "40.730054,-73.99107",
+    "n_ID": "636N",
+    "s_ID": "636S"
+  },
+  "637": {
+    "stop_name": "Bleecker St",
+    "stop_coordinates": "40.725915,-73.994659",
+    "n_ID": "637N",
+    "s_ID": "637S"
+  },
+  "638": {
+    "stop_name": "Spring St",
+    "stop_coordinates": "40.722301,-73.997141",
+    "n_ID": "638N",
+    "s_ID": "638S"
+  },
+  "639": {
+    "stop_name": "Canal St",
+    "stop_coordinates": "40.718803,-74.000193",
+    "n_ID": "639N",
+    "s_ID": "639S"
+  },
+  "640": {
+    "stop_name": "Brooklyn Bridge - City Hall",
+    "stop_coordinates": "40.713065,-74.004131",
+    "n_ID": "640N",
+    "s_ID": "640S"
+  },
+  "701": {
+    "stop_name": "Flushing - Main St",
+    "stop_coordinates": "40.7596,-73.83003",
+    "n_ID": "701N",
+    "s_ID": "701S"
+  },
+  "702": {
+    "stop_name": "Mets - Willets Point",
+    "stop_coordinates": "40.754622,-73.845625",
+    "n_ID": "702N",
+    "s_ID": "702S"
+  },
+  "705": {
+    "stop_name": "111 St",
+    "stop_coordinates": "40.75173,-73.855334",
+    "n_ID": "705N",
+    "s_ID": "705S"
+  },
+  "706": {
+    "stop_name": "103 St - Corona Plaza",
+    "stop_coordinates": "40.749865,-73.8627",
+    "n_ID": "706N",
+    "s_ID": "706S"
+  },
+  "707": {
+    "stop_name": "Junction Blvd",
+    "stop_coordinates": "40.749145,-73.869527",
+    "n_ID": "707N",
+    "s_ID": "707S"
+  },
+  "708": {
+    "stop_name": "90 St - Elmhurst Av",
+    "stop_coordinates": "40.748408,-73.876613",
+    "n_ID": "708N",
+    "s_ID": "708S"
+  },
+  "709": {
+    "stop_name": "82 St - Jackson Hts",
+    "stop_coordinates": "40.747659,-73.883697",
+    "n_ID": "709N",
+    "s_ID": "709S"
+  },
+  "710": {
+    "stop_name": "74 St - Broadway",
+    "stop_coordinates": "40.746848,-73.891394",
+    "n_ID": "710N",
+    "s_ID": "710S"
+  },
+  "711": {
+    "stop_name": "69 St",
+    "stop_coordinates": "40.746325,-73.896403",
+    "n_ID": "711N",
+    "s_ID": "711S"
+  },
+  "712": {
+    "stop_name": "Woodside - 61 St",
+    "stop_coordinates": "40.74563,-73.902984",
+    "n_ID": "712N",
+    "s_ID": "712S"
+  },
+  "713": {
+    "stop_name": "52 St",
+    "stop_coordinates": "40.744149,-73.912549",
+    "n_ID": "713N",
+    "s_ID": "713S"
+  },
+  "714": {
+    "stop_name": "46 St",
+    "stop_coordinates": "40.743132,-73.918435",
+    "n_ID": "714N",
+    "s_ID": "714S"
+  },
+  "715": {
+    "stop_name": "40 St",
+    "stop_coordinates": "40.743781,-73.924016",
+    "n_ID": "715N",
+    "s_ID": "715S"
+  },
+  "716": {
+    "stop_name": "33 St",
+    "stop_coordinates": "40.744587,-73.930997",
+    "n_ID": "716N",
+    "s_ID": "716S"
+  },
+  "718": {
+    "stop_name": "Queensboro Plaza",
+    "stop_coordinates": "40.750582,-73.940202",
+    "n_ID": "718N",
+    "s_ID": "718S"
+  },
+  "719": {
+    "stop_name": "Court Sq",
+    "stop_coordinates": "40.747023,-73.945264",
+    "n_ID": "719N",
+    "s_ID": "719S"
+  },
+  "720": {
+    "stop_name": "Hunters Point Av",
+    "stop_coordinates": "40.742216,-73.948916",
+    "n_ID": "720N",
+    "s_ID": "720S"
+  },
+  "721": {
+    "stop_name": "Vernon Blvd - Jackson Av",
+    "stop_coordinates": "40.742626,-73.953581",
+    "n_ID": "721N",
+    "s_ID": "721S"
+  },
+  "723": {
+    "stop_name": "Grand Central - 42 St",
+    "stop_coordinates": "40.751431,-73.976041",
+    "n_ID": "723N",
+    "s_ID": "723S"
+  },
+  "724": {
+    "stop_name": "5 Av",
+    "stop_coordinates": "40.753821,-73.981963",
+    "n_ID": "724N",
+    "s_ID": "724S"
+  },
+  "725": {
+    "stop_name": "Times Sq - 42 St",
+    "stop_coordinates": "40.755477,-73.987691",
+    "n_ID": "725N",
+    "s_ID": "725S"
+  },
+  "901": {
+    "stop_name": "Grand Central - 42 St",
+    "stop_coordinates": "40.752769,-73.979189",
+    "n_ID": "901N",
+    "s_ID": "901S"
+  },
+  "902": {
+    "stop_name": "Times Sq - 42 St",
+    "stop_coordinates": "40.755983,-73.986229",
+    "n_ID": "902N",
+    "s_ID": "902S"
+  },
+  "A02": {
+    "stop_name": "Inwood - 207 St",
+    "stop_coordinates": "40.868072,-73.919899",
+    "n_ID": "A02N",
+    "s_ID": "A02S"
+  },
+  "A03": {
+    "stop_name": "Dyckman St",
+    "stop_coordinates": "40.865491,-73.927271",
+    "n_ID": "A03N",
+    "s_ID": "A03S"
+  },
+  "A05": {
+    "stop_name": "190 St",
+    "stop_coordinates": "40.859022,-73.93418",
+    "n_ID": "A05N",
+    "s_ID": "A05S"
+  },
+  "A06": {
+    "stop_name": "181 St",
+    "stop_coordinates": "40.851695,-73.937969",
+    "n_ID": "A06N",
+    "s_ID": "A06S"
+  },
+  "A07": {
+    "stop_name": "175 St",
+    "stop_coordinates": "40.847391,-73.939704",
+    "n_ID": "A07N",
+    "s_ID": "A07S"
+  },
+  "A09": {
+    "stop_name": "168 St",
+    "stop_coordinates": "40.840719,-73.939561",
+    "n_ID": "A09N",
+    "s_ID": "A09S"
+  },
+  "A10": {
+    "stop_name": "163 St - Amsterdam Av",
+    "stop_coordinates": "40.836013,-73.939892",
+    "n_ID": "A10N",
+    "s_ID": "A10S"
+  },
+  "A11": {
+    "stop_name": "155 St",
+    "stop_coordinates": "40.830518,-73.941514",
+    "n_ID": "A11N",
+    "s_ID": "A11S"
+  },
+  "A12": {
+    "stop_name": "145 St",
+    "stop_coordinates": "40.824783,-73.944216",
+    "n_ID": "A12N",
+    "s_ID": "A12S"
+  },
+  "A14": {
+    "stop_name": "135 St",
+    "stop_coordinates": "40.817894,-73.947649",
+    "n_ID": "A14N",
+    "s_ID": "A14S"
+  },
+  "A15": {
+    "stop_name": "125 St",
+    "stop_coordinates": "40.811109,-73.952343",
+    "n_ID": "A15N",
+    "s_ID": "A15S"
+  },
+  "A16": {
+    "stop_name": "116 St",
+    "stop_coordinates": "40.805085,-73.954882",
+    "n_ID": "A16N",
+    "s_ID": "A16S"
+  },
+  "A17": {
+    "stop_name": "Cathedral Pkwy (110 St)",
+    "stop_coordinates": "40.800603,-73.958161",
+    "n_ID": "A17N",
+    "s_ID": "A17S"
+  },
+  "A18": {
+    "stop_name": "103 St",
+    "stop_coordinates": "40.796092,-73.961454",
+    "n_ID": "A18N",
+    "s_ID": "A18S"
+  },
+  "A19": {
+    "stop_name": "96 St",
+    "stop_coordinates": "40.791642,-73.964696",
+    "n_ID": "A19N",
+    "s_ID": "A19S"
+  },
+  "A20": {
+    "stop_name": "86 St",
+    "stop_coordinates": "40.785868,-73.968916",
+    "n_ID": "A20N",
+    "s_ID": "A20S"
+  },
+  "A21": {
+    "stop_name": "81 St - Museum of Natural History",
+    "stop_coordinates": "40.781433,-73.972143",
+    "n_ID": "A21N",
+    "s_ID": "A21S"
+  },
+  "A22": {
+    "stop_name": "72 St",
+    "stop_coordinates": "40.775594,-73.97641",
+    "n_ID": "A22N",
+    "s_ID": "A22S"
+  },
+  "A24": {
+    "stop_name": "59 St - Columbus Circle",
+    "stop_coordinates": "40.768296,-73.981736",
+    "n_ID": "A24N",
+    "s_ID": "A24S"
+  },
+  "A25": {
+    "stop_name": "50 St",
+    "stop_coordinates": "40.762456,-73.985984",
+    "n_ID": "A25N",
+    "s_ID": "A25S"
+  },
+  "A27": {
+    "stop_name": "42 St - Port Authority Bus Terminal",
+    "stop_coordinates": "40.757308,-73.989735",
+    "n_ID": "A27N",
+    "s_ID": "A27S"
+  },
+  "A28": {
+    "stop_name": "34 St - Penn Station",
+    "stop_coordinates": "40.752287,-73.993391",
+    "n_ID": "A28N",
+    "s_ID": "A28S"
+  },
+  "A30": {
+    "stop_name": "23 St",
+    "stop_coordinates": "40.745906,-73.998041",
+    "n_ID": "A30N",
+    "s_ID": "A30S"
+  },
+  "A31": {
+    "stop_name": "14 St",
+    "stop_coordinates": "40.740893,-74.00169",
+    "n_ID": "A31N",
+    "s_ID": "A31S"
+  },
+  "A32": {
+    "stop_name": "W 4 St",
+    "stop_coordinates": "40.732338,-74.000495",
+    "n_ID": "A32N",
+    "s_ID": "A32S"
+  },
+  "A33": {
+    "stop_name": "Spring St",
+    "stop_coordinates": "40.726227,-74.003739",
+    "n_ID": "A33N",
+    "s_ID": "A33S"
+  },
+  "A34": {
+    "stop_name": "Canal St",
+    "stop_coordinates": "40.720824,-74.005229",
+    "n_ID": "A34N",
+    "s_ID": "A34S"
+  },
+  "A36": {
+    "stop_name": "Chambers St",
+    "stop_coordinates": "40.714111,-74.008585",
+    "n_ID": "A36N",
+    "s_ID": "A36S"
+  },
+  "A38": {
+    "stop_name": "Fulton St",
+    "stop_coordinates": "40.710197,-74.007691",
+    "n_ID": "A38N",
+    "s_ID": "A38S"
+  },
+  "A40": {
+    "stop_name": "High St",
+    "stop_coordinates": "40.699337,-73.990531",
+    "n_ID": "A40N",
+    "s_ID": "A40S"
+  },
+  "A41": {
+    "stop_name": "Jay St - MetroTech",
+    "stop_coordinates": "40.692338,-73.987342",
+    "n_ID": "A41N",
+    "s_ID": "A41S"
+  },
+  "A42": {
+    "stop_name": "Hoyt - Schermerhorn Sts",
+    "stop_coordinates": "40.688484,-73.985001",
+    "n_ID": "A42N",
+    "s_ID": "A42S"
+  },
+  "A43": {
+    "stop_name": "Lafayette Av",
+    "stop_coordinates": "40.686113,-73.973946",
+    "n_ID": "A43N",
+    "s_ID": "A43S"
+  },
+  "A44": {
+    "stop_name": "Clinton - Washington Avs",
+    "stop_coordinates": "40.683263,-73.965838",
+    "n_ID": "A44N",
+    "s_ID": "A44S"
+  },
+  "A45": {
+    "stop_name": "Franklin Av",
+    "stop_coordinates": "40.68138,-73.956848",
+    "n_ID": "A45N",
+    "s_ID": "A45S"
+  },
+  "A46": {
+    "stop_name": "Nostrand Av",
+    "stop_coordinates": "40.680438,-73.950426",
+    "n_ID": "A46N",
+    "s_ID": "A46S"
+  },
+  "A47": {
+    "stop_name": "Kingston - Throop Avs",
+    "stop_coordinates": "40.679921,-73.940858",
+    "n_ID": "A47N",
+    "s_ID": "A47S"
+  },
+  "A48": {
+    "stop_name": "Utica Av",
+    "stop_coordinates": "40.679364,-73.930729",
+    "n_ID": "A48N",
+    "s_ID": "A48S"
+  },
+  "A49": {
+    "stop_name": "Ralph Av",
+    "stop_coordinates": "40.678822,-73.920786",
+    "n_ID": "A49N",
+    "s_ID": "A49S"
+  },
+  "A50": {
+    "stop_name": "Rockaway Av",
+    "stop_coordinates": "40.67834,-73.911946",
+    "n_ID": "A50N",
+    "s_ID": "A50S"
+  },
+  "A51": {
+    "stop_name": "Broadway Jct",
+    "stop_coordinates": "40.678334,-73.905316",
+    "n_ID": "A51N",
+    "s_ID": "A51S"
+  },
+  "A52": {
+    "stop_name": "Liberty Av",
+    "stop_coordinates": "40.674542,-73.896548",
+    "n_ID": "A52N",
+    "s_ID": "A52S"
+  },
+  "A53": {
+    "stop_name": "Van Siclen Av",
+    "stop_coordinates": "40.67271,-73.890358",
+    "n_ID": "A53N",
+    "s_ID": "A53S"
+  },
+  "A54": {
+    "stop_name": "Shepherd Av",
+    "stop_coordinates": "40.67413,-73.88075",
+    "n_ID": "A54N",
+    "s_ID": "A54S"
+  },
+  "A55": {
+    "stop_name": "Euclid Av",
+    "stop_coordinates": "40.675377,-73.872106",
+    "n_ID": "A55N",
+    "s_ID": "A55S"
+  },
+  "A57": {
+    "stop_name": "Grant Av",
+    "stop_coordinates": "40.677044,-73.86505",
+    "n_ID": "A57N",
+    "s_ID": "A57S"
+  },
+  "A59": {
+    "stop_name": "80 St",
+    "stop_coordinates": "40.679371,-73.858992",
+    "n_ID": "A59N",
+    "s_ID": "A59S"
+  },
+  "A60": {
+    "stop_name": "88 St",
+    "stop_coordinates": "40.679843,-73.85147",
+    "n_ID": "A60N",
+    "s_ID": "A60S"
+  },
+  "A61": {
+    "stop_name": "Rockaway Blvd",
+    "stop_coordinates": "40.680429,-73.843853",
+    "n_ID": "A61N",
+    "s_ID": "A61S"
+  },
+  "A63": {
+    "stop_name": "104 St",
+    "stop_coordinates": "40.681711,-73.837683",
+    "n_ID": "A63N",
+    "s_ID": "A63S"
+  },
+  "A64": {
+    "stop_name": "111 St",
+    "stop_coordinates": "40.684331,-73.832163",
+    "n_ID": "A64N",
+    "s_ID": "A64S"
+  },
+  "A65": {
+    "stop_name": "Ozone Park - Lefferts Blvd",
+    "stop_coordinates": "40.685951,-73.825798",
+    "n_ID": "A65N",
+    "s_ID": "A65S"
+  },
+  "B04": {
+    "stop_name": "21 St - Queensbridge",
+    "stop_coordinates": "40.754203,-73.942836",
+    "n_ID": "B04N",
+    "s_ID": "B04S"
+  },
+  "B06": {
+    "stop_name": "Roosevelt Island",
+    "stop_coordinates": "40.759145,-73.95326",
+    "n_ID": "B06N",
+    "s_ID": "B06S"
+  },
+  "B08": {
+    "stop_name": "Lexington Av/63 St",
+    "stop_coordinates": "40.764629,-73.966113",
+    "n_ID": "B08N",
+    "s_ID": "B08S"
+  },
+  "B10": {
+    "stop_name": "57 St",
+    "stop_coordinates": "40.763972,-73.97745",
+    "n_ID": "B10N",
+    "s_ID": "B10S"
+  },
+  "B12": {
+    "stop_name": "9 Av",
+    "stop_coordinates": "40.646292,-73.994324",
+    "n_ID": "B12N",
+    "s_ID": "B12S"
+  },
+  "B13": {
+    "stop_name": "Fort Hamilton Pkwy",
+    "stop_coordinates": "40.640914,-73.994304",
+    "n_ID": "B13N",
+    "s_ID": "B13S"
+  },
+  "B14": {
+    "stop_name": "50 St",
+    "stop_coordinates": "40.63626,-73.994791",
+    "n_ID": "B14N",
+    "s_ID": "B14S"
+  },
+  "B15": {
+    "stop_name": "55 St",
+    "stop_coordinates": "40.631435,-73.995476",
+    "n_ID": "B15N",
+    "s_ID": "B15S"
+  },
+  "B16": {
+    "stop_name": "62 St",
+    "stop_coordinates": "40.626472,-73.996895",
+    "n_ID": "B16N",
+    "s_ID": "B16S"
+  },
+  "B17": {
+    "stop_name": "71 St",
+    "stop_coordinates": "40.619589,-73.998864",
+    "n_ID": "B17N",
+    "s_ID": "B17S"
+  },
+  "B18": {
+    "stop_name": "79 St",
+    "stop_coordinates": "40.613501,-74.00061",
+    "n_ID": "B18N",
+    "s_ID": "B18S"
+  },
+  "B19": {
+    "stop_name": "18 Av",
+    "stop_coordinates": "40.607954,-74.001736",
+    "n_ID": "B19N",
+    "s_ID": "B19S"
+  },
+  "B20": {
+    "stop_name": "20 Av",
+    "stop_coordinates": "40.604556,-73.998168",
+    "n_ID": "B20N",
+    "s_ID": "B20S"
+  },
+  "B21": {
+    "stop_name": "Bay Pkwy",
+    "stop_coordinates": "40.601875,-73.993728",
+    "n_ID": "B21N",
+    "s_ID": "B21S"
+  },
+  "B22": {
+    "stop_name": "25 Av",
+    "stop_coordinates": "40.597704,-73.986829",
+    "n_ID": "B22N",
+    "s_ID": "B22S"
+  },
+  "B23": {
+    "stop_name": "Bay 50 St",
+    "stop_coordinates": "40.588841,-73.983765",
+    "n_ID": "B23N",
+    "s_ID": "B23S"
+  },
+  "D01": {
+    "stop_name": "Norwood - 205 St",
+    "stop_coordinates": "40.874811,-73.878855",
+    "n_ID": "D01N",
+    "s_ID": "D01S"
+  },
+  "D03": {
+    "stop_name": "Bedford Park Blvd",
+    "stop_coordinates": "40.873244,-73.887138",
+    "n_ID": "D03N",
+    "s_ID": "D03S"
+  },
+  "D04": {
+    "stop_name": "Kingsbridge Rd",
+    "stop_coordinates": "40.866978,-73.893509",
+    "n_ID": "D04N",
+    "s_ID": "D04S"
+  },
+  "D05": {
+    "stop_name": "Fordham Rd",
+    "stop_coordinates": "40.861296,-73.897749",
+    "n_ID": "D05N",
+    "s_ID": "D05S"
+  },
+  "D06": {
+    "stop_name": "182-183 Sts",
+    "stop_coordinates": "40.856093,-73.900741",
+    "n_ID": "D06N",
+    "s_ID": "D06S"
+  },
+  "D07": {
+    "stop_name": "Tremont Av",
+    "stop_coordinates": "40.85041,-73.905227",
+    "n_ID": "D07N",
+    "s_ID": "D07S"
+  },
+  "D08": {
+    "stop_name": "174-175 Sts",
+    "stop_coordinates": "40.8459,-73.910136",
+    "n_ID": "D08N",
+    "s_ID": "D08S"
+  },
+  "D09": {
+    "stop_name": "170 St",
+    "stop_coordinates": "40.839306,-73.9134",
+    "n_ID": "D09N",
+    "s_ID": "D09S"
+  },
+  "D10": {
+    "stop_name": "167 St",
+    "stop_coordinates": "40.833771,-73.91844",
+    "n_ID": "D10N",
+    "s_ID": "D10S"
+  },
+  "D11": {
+    "stop_name": "161 St - Yankee Stadium",
+    "stop_coordinates": "40.827905,-73.925651",
+    "n_ID": "D11N",
+    "s_ID": "D11S"
+  },
+  "D12": {
+    "stop_name": "155 St",
+    "stop_coordinates": "40.830135,-73.938209",
+    "n_ID": "D12N",
+    "s_ID": "D12S"
+  },
+  "D13": {
+    "stop_name": "145 St",
+    "stop_coordinates": "40.824783,-73.944216",
+    "n_ID": "D13N",
+    "s_ID": "D13S"
+  },
+  "D14": {
+    "stop_name": "7 Av",
+    "stop_coordinates": "40.762862,-73.981637",
+    "n_ID": "D14N",
+    "s_ID": "D14S"
+  },
+  "D15": {
+    "stop_name": "47-50 Sts - Rockefeller Ctr",
+    "stop_coordinates": "40.758663,-73.981329",
+    "n_ID": "D15N",
+    "s_ID": "D15S"
+  },
+  "D16": {
+    "stop_name": "42 St - Bryant Pk",
+    "stop_coordinates": "40.754222,-73.984569",
+    "n_ID": "D16N",
+    "s_ID": "D16S"
+  },
+  "D17": {
+    "stop_name": "34 St - Herald Sq",
+    "stop_coordinates": "40.749719,-73.987823",
+    "n_ID": "D17N",
+    "s_ID": "D17S"
+  },
+  "D18": {
+    "stop_name": "23 St",
+    "stop_coordinates": "40.742878,-73.992821",
+    "n_ID": "D18N",
+    "s_ID": "D18S"
+  },
+  "D19": {
+    "stop_name": "14 St",
+    "stop_coordinates": "40.738228,-73.996209",
+    "n_ID": "D19N",
+    "s_ID": "D19S"
+  },
+  "D20": {
+    "stop_name": "W 4 St",
+    "stop_coordinates": "40.732338,-74.000495",
+    "n_ID": "D20N",
+    "s_ID": "D20S"
+  },
+  "D21": {
+    "stop_name": "Broadway-Lafayette St",
+    "stop_coordinates": "40.725297,-73.996204",
+    "n_ID": "D21N",
+    "s_ID": "D21S"
+  },
+  "D22": {
+    "stop_name": "Grand St",
+    "stop_coordinates": "40.718267,-73.993753",
+    "n_ID": "D22N",
+    "s_ID": "D22S"
+  },
+  "D24": {
+    "stop_name": "Atlantic Av - Barclays Ctr",
+    "stop_coordinates": "40.68446,-73.97689",
+    "n_ID": "D24N",
+    "s_ID": "D24S"
+  },
+  "D25": {
+    "stop_name": "7 Av",
+    "stop_coordinates": "40.67705,-73.972367",
+    "n_ID": "D25N",
+    "s_ID": "D25S"
+  },
+  "D26": {
+    "stop_name": "Prospect Park",
+    "stop_coordinates": "40.661614,-73.962246",
+    "n_ID": "D26N",
+    "s_ID": "D26S"
+  },
+  "D27": {
+    "stop_name": "Parkside Av",
+    "stop_coordinates": "40.655292,-73.961495",
+    "n_ID": "D27N",
+    "s_ID": "D27S"
+  },
+  "D28": {
+    "stop_name": "Church Av",
+    "stop_coordinates": "40.650527,-73.962982",
+    "n_ID": "D28N",
+    "s_ID": "D28S"
+  },
+  "D29": {
+    "stop_name": "Beverly Rd",
+    "stop_coordinates": "40.644031,-73.964492",
+    "n_ID": "D29N",
+    "s_ID": "D29S"
+  },
+  "D30": {
+    "stop_name": "Cortelyou Rd",
+    "stop_coordinates": "40.640927,-73.963891",
+    "n_ID": "D30N",
+    "s_ID": "D30S"
+  },
+  "D31": {
+    "stop_name": "Newkirk Av",
+    "stop_coordinates": "40.635082,-73.962793",
+    "n_ID": "D31N",
+    "s_ID": "D31S"
+  },
+  "D32": {
+    "stop_name": "Avenue H",
+    "stop_coordinates": "40.62927,-73.961639",
+    "n_ID": "D32N",
+    "s_ID": "D32S"
+  },
+  "D33": {
+    "stop_name": "Avenue J",
+    "stop_coordinates": "40.625039,-73.960803",
+    "n_ID": "D33N",
+    "s_ID": "D33S"
+  },
+  "D34": {
+    "stop_name": "Avenue M",
+    "stop_coordinates": "40.617618,-73.959399",
+    "n_ID": "D34N",
+    "s_ID": "D34S"
+  },
+  "D35": {
+    "stop_name": "Kings Hwy",
+    "stop_coordinates": "40.60867,-73.957734",
+    "n_ID": "D35N",
+    "s_ID": "D35S"
+  },
+  "D37": {
+    "stop_name": "Avenue U",
+    "stop_coordinates": "40.5993,-73.955929",
+    "n_ID": "D37N",
+    "s_ID": "D37S"
+  },
+  "D38": {
+    "stop_name": "Neck Rd",
+    "stop_coordinates": "40.595246,-73.955161",
+    "n_ID": "D38N",
+    "s_ID": "D38S"
+  },
+  "D39": {
+    "stop_name": "Sheepshead Bay",
+    "stop_coordinates": "40.586896,-73.954155",
+    "n_ID": "D39N",
+    "s_ID": "D39S"
+  },
+  "D40": {
+    "stop_name": "Brighton Beach",
+    "stop_coordinates": "40.577621,-73.961376",
+    "n_ID": "D40N",
+    "s_ID": "D40S"
+  },
+  "D41": {
+    "stop_name": "Ocean Pkwy",
+    "stop_coordinates": "40.576312,-73.968501",
+    "n_ID": "D41N",
+    "s_ID": "D41S"
+  },
+  "D42": {
+    "stop_name": "W 8 St - NY Aquarium",
+    "stop_coordinates": "40.576127,-73.975939",
+    "n_ID": "D42N",
+    "s_ID": "D42S"
+  },
+  "D43": {
+    "stop_name": "Coney Island - Stillwell Av",
+    "stop_coordinates": "40.577422,-73.981233",
+    "n_ID": "D43N",
+    "s_ID": "D43S"
+  },
+  "E01": {
+    "stop_name": "World Trade Center",
+    "stop_coordinates": "40.712582,-74.009781",
+    "n_ID": "E01N",
+    "s_ID": "E01S"
+  },
+  "F01": {
+    "stop_name": "Jamaica - 179 St",
+    "stop_coordinates": "40.712646,-73.783817",
+    "n_ID": "F01N",
+    "s_ID": "F01S"
+  },
+  "F02": {
+    "stop_name": "169 St",
+    "stop_coordinates": "40.71047,-73.793604",
+    "n_ID": "F02N",
+    "s_ID": "F02S"
+  },
+  "F03": {
+    "stop_name": "Parsons Blvd",
+    "stop_coordinates": "40.707564,-73.803326",
+    "n_ID": "F03N",
+    "s_ID": "F03S"
+  },
+  "F04": {
+    "stop_name": "Sutphin Blvd",
+    "stop_coordinates": "40.70546,-73.810708",
+    "n_ID": "F04N",
+    "s_ID": "F04S"
+  },
+  "F05": {
+    "stop_name": "Briarwood - Van Wyck Blvd",
+    "stop_coordinates": "40.709179,-73.820574",
+    "n_ID": "F05N",
+    "s_ID": "F05S"
+  },
+  "F06": {
+    "stop_name": "Kew Gardens - Union Tpke",
+    "stop_coordinates": "40.714441,-73.831008",
+    "n_ID": "F06N",
+    "s_ID": "F06S"
+  },
+  "F07": {
+    "stop_name": "75 Av",
+    "stop_coordinates": "40.718331,-73.837324",
+    "n_ID": "F07N",
+    "s_ID": "F07S"
+  },
+  "F09": {
+    "stop_name": "Court Sq",
+    "stop_coordinates": "40.747846,-73.946",
+    "n_ID": "F09N",
+    "s_ID": "F09S"
+  },
+  "F11": {
+    "stop_name": "Lexington Av/53 St",
+    "stop_coordinates": "40.757552,-73.969055",
+    "n_ID": "F11N",
+    "s_ID": "F11S"
+  },
+  "F12": {
+    "stop_name": "5 Av/53 St",
+    "stop_coordinates": "40.760167,-73.975224",
+    "n_ID": "F12N",
+    "s_ID": "F12S"
+  },
+  "F14": {
+    "stop_name": "2 Av",
+    "stop_coordinates": "40.723402,-73.989938",
+    "n_ID": "F14N",
+    "s_ID": "F14S"
+  },
+  "F15": {
+    "stop_name": "Delancey St",
+    "stop_coordinates": "40.718611,-73.988114",
+    "n_ID": "F15N",
+    "s_ID": "F15S"
+  },
+  "F16": {
+    "stop_name": "East Broadway",
+    "stop_coordinates": "40.713715,-73.990173",
+    "n_ID": "F16N",
+    "s_ID": "F16S"
+  },
+  "F18": {
+    "stop_name": "York St",
+    "stop_coordinates": "40.701397,-73.986751",
+    "n_ID": "F18N",
+    "s_ID": "F18S"
+  },
+  "F20": {
+    "stop_name": "Bergen St",
+    "stop_coordinates": "40.686145,-73.990862",
+    "n_ID": "F20N",
+    "s_ID": "F20S"
+  },
+  "F21": {
+    "stop_name": "Carroll St",
+    "stop_coordinates": "40.680303,-73.995048",
+    "n_ID": "F21N",
+    "s_ID": "F21S"
+  },
+  "F22": {
+    "stop_name": "Smith - 9 Sts",
+    "stop_coordinates": "40.67358,-73.995959",
+    "n_ID": "F22N",
+    "s_ID": "F22S"
+  },
+  "F23": {
+    "stop_name": "4 Av",
+    "stop_coordinates": "40.670272,-73.989779",
+    "n_ID": "F23N",
+    "s_ID": "F23S"
+  },
+  "F24": {
+    "stop_name": "7 Av",
+    "stop_coordinates": "40.666271,-73.980305",
+    "n_ID": "F24N",
+    "s_ID": "F24S"
+  },
+  "F25": {
+    "stop_name": "15 St - Prospect Park",
+    "stop_coordinates": "40.660365,-73.979493",
+    "n_ID": "F25N",
+    "s_ID": "F25S"
+  },
+  "F26": {
+    "stop_name": "Fort Hamilton Pkwy",
+    "stop_coordinates": "40.650782,-73.975776",
+    "n_ID": "F26N",
+    "s_ID": "F26S"
+  },
+  "F27": {
+    "stop_name": "Church Av",
+    "stop_coordinates": "40.644041,-73.979678",
+    "n_ID": "F27N",
+    "s_ID": "F27S"
+  },
+  "F29": {
+    "stop_name": "Ditmas Av",
+    "stop_coordinates": "40.636119,-73.978172",
+    "n_ID": "F29N",
+    "s_ID": "F29S"
+  },
+  "F30": {
+    "stop_name": "18 Av",
+    "stop_coordinates": "40.629755,-73.976971",
+    "n_ID": "F30N",
+    "s_ID": "F30S"
+  },
+  "F31": {
+    "stop_name": "Avenue I",
+    "stop_coordinates": "40.625322,-73.976127",
+    "n_ID": "F31N",
+    "s_ID": "F31S"
+  },
+  "F32": {
+    "stop_name": "Bay Pkwy",
+    "stop_coordinates": "40.620769,-73.975264",
+    "n_ID": "F32N",
+    "s_ID": "F32S"
+  },
+  "F33": {
+    "stop_name": "Avenue N",
+    "stop_coordinates": "40.61514,-73.974197",
+    "n_ID": "F33N",
+    "s_ID": "F33S"
+  },
+  "F34": {
+    "stop_name": "Avenue P",
+    "stop_coordinates": "40.608944,-73.973022",
+    "n_ID": "F34N",
+    "s_ID": "F34S"
+  },
+  "F35": {
+    "stop_name": "Kings Hwy",
+    "stop_coordinates": "40.603217,-73.972361",
+    "n_ID": "F35N",
+    "s_ID": "F35S"
+  },
+  "F36": {
+    "stop_name": "Avenue U",
+    "stop_coordinates": "40.596063,-73.973357",
+    "n_ID": "F36N",
+    "s_ID": "F36S"
+  },
+  "F38": {
+    "stop_name": "Avenue X",
+    "stop_coordinates": "40.58962,-73.97425",
+    "n_ID": "F38N",
+    "s_ID": "F38S"
+  },
+  "F39": {
+    "stop_name": "Neptune Av",
+    "stop_coordinates": "40.581011,-73.974574",
+    "n_ID": "F39N",
+    "s_ID": "F39S"
+  },
+  "G05": {
+    "stop_name": "Jamaica Center - Parsons/Archer",
+    "stop_coordinates": "40.702147,-73.801109",
+    "n_ID": "G05N",
+    "s_ID": "G05S"
+  },
+  "G06": {
+    "stop_name": "Sutphin Blvd - Archer Av - JFK Airport",
+    "stop_coordinates": "40.700486,-73.807969",
+    "n_ID": "G06N",
+    "s_ID": "G06S"
+  },
+  "G07": {
+    "stop_name": "Jamaica - Van Wyck",
+    "stop_coordinates": "40.702566,-73.816859",
+    "n_ID": "G07N",
+    "s_ID": "G07S"
+  },
+  "G08": {
+    "stop_name": "Forest Hills - 71 Av",
+    "stop_coordinates": "40.721691,-73.844521",
+    "n_ID": "G08N",
+    "s_ID": "G08S"
+  },
+  "G09": {
+    "stop_name": "67 Av",
+    "stop_coordinates": "40.726523,-73.852719",
+    "n_ID": "G09N",
+    "s_ID": "G09S"
+  },
+  "G10": {
+    "stop_name": "63 Dr - Rego Park",
+    "stop_coordinates": "40.729846,-73.861604",
+    "n_ID": "G10N",
+    "s_ID": "G10S"
+  },
+  "G11": {
+    "stop_name": "Woodhaven Blvd",
+    "stop_coordinates": "40.733106,-73.869229",
+    "n_ID": "G11N",
+    "s_ID": "G11S"
+  },
+  "G12": {
+    "stop_name": "Grand Av - Newtown",
+    "stop_coordinates": "40.737015,-73.877223",
+    "n_ID": "G12N",
+    "s_ID": "G12S"
+  },
+  "G13": {
+    "stop_name": "Elmhurst Av",
+    "stop_coordinates": "40.742454,-73.882017",
+    "n_ID": "G13N",
+    "s_ID": "G13S"
+  },
+  "G14": {
+    "stop_name": "Jackson Hts - Roosevelt Av",
+    "stop_coordinates": "40.746644,-73.891338",
+    "n_ID": "G14N",
+    "s_ID": "G14S"
+  },
+  "G15": {
+    "stop_name": "65 St",
+    "stop_coordinates": "40.749669,-73.898453",
+    "n_ID": "G15N",
+    "s_ID": "G15S"
+  },
+  "G16": {
+    "stop_name": "Northern Blvd",
+    "stop_coordinates": "40.752885,-73.906006",
+    "n_ID": "G16N",
+    "s_ID": "G16S"
+  },
+  "G18": {
+    "stop_name": "46 St",
+    "stop_coordinates": "40.756312,-73.913333",
+    "n_ID": "G18N",
+    "s_ID": "G18S"
+  },
+  "G19": {
+    "stop_name": "Steinway St",
+    "stop_coordinates": "40.756879,-73.92074",
+    "n_ID": "G19N",
+    "s_ID": "G19S"
+  },
+  "G20": {
+    "stop_name": "36 St",
+    "stop_coordinates": "40.752039,-73.928781",
+    "n_ID": "G20N",
+    "s_ID": "G20S"
+  },
+  "G21": {
+    "stop_name": "Queens Plaza",
+    "stop_coordinates": "40.748973,-73.937243",
+    "n_ID": "G21N",
+    "s_ID": "G21S"
+  },
+  "G22": {
+    "stop_name": "Court Sq",
+    "stop_coordinates": "40.746554,-73.943832",
+    "n_ID": "G22N",
+    "s_ID": "G22S"
+  },
+  "G24": {
+    "stop_name": "21 St",
+    "stop_coordinates": "40.744065,-73.949724",
+    "n_ID": "G24N",
+    "s_ID": "G24S"
+  },
+  "G26": {
+    "stop_name": "Greenpoint Av",
+    "stop_coordinates": "40.731352,-73.954449",
+    "n_ID": "G26N",
+    "s_ID": "G26S"
+  },
+  "G28": {
+    "stop_name": "Nassau Av",
+    "stop_coordinates": "40.724635,-73.951277",
+    "n_ID": "G28N",
+    "s_ID": "G28S"
+  },
+  "G29": {
+    "stop_name": "Metropolitan Av",
+    "stop_coordinates": "40.712792,-73.951418",
+    "n_ID": "G29N",
+    "s_ID": "G29S"
+  },
+  "G30": {
+    "stop_name": "Broadway",
+    "stop_coordinates": "40.706092,-73.950308",
+    "n_ID": "G30N",
+    "s_ID": "G30S"
+  },
+  "G31": {
+    "stop_name": "Flushing Av",
+    "stop_coordinates": "40.700377,-73.950234",
+    "n_ID": "G31N",
+    "s_ID": "G31S"
+  },
+  "G32": {
+    "stop_name": "Myrtle - Willoughby Avs",
+    "stop_coordinates": "40.694568,-73.949046",
+    "n_ID": "G32N",
+    "s_ID": "G32S"
+  },
+  "G33": {
+    "stop_name": "Bedford - Nostrand Avs",
+    "stop_coordinates": "40.689627,-73.953522",
+    "n_ID": "G33N",
+    "s_ID": "G33S"
+  },
+  "G34": {
+    "stop_name": "Classon Av",
+    "stop_coordinates": "40.688873,-73.96007",
+    "n_ID": "G34N",
+    "s_ID": "G34S"
+  },
+  "G35": {
+    "stop_name": "Clinton - Washington Avs",
+    "stop_coordinates": "40.688089,-73.966839",
+    "n_ID": "G35N",
+    "s_ID": "G35S"
+  },
+  "G36": {
+    "stop_name": "Fulton St",
+    "stop_coordinates": "40.687119,-73.975375",
+    "n_ID": "G36N",
+    "s_ID": "G36S"
+  },
+  "H01": {
+    "stop_name": "Aqueduct Racetrack",
+    "stop_coordinates": "40.668234,-73.834058",
+    "n_ID": "H01N",
+    "s_ID": "H01S"
+  },
+  "H02": {
+    "stop_name": "Aqueduct - N Conduit Av",
+    "stop_coordinates": "40.668234,-73.834058",
+    "n_ID": "H02N",
+    "s_ID": "H02S"
+  },
+  "H03": {
+    "stop_name": "Howard Beach - JFK Airport",
+    "stop_coordinates": "40.660476,-73.830301",
+    "n_ID": "H03N",
+    "s_ID": "H03S"
+  },
+  "H04": {
+    "stop_name": "Broad Channel",
+    "stop_coordinates": "40.608382,-73.815925",
+    "n_ID": "H04N",
+    "s_ID": "H04S"
+  },
+  "H06": {
+    "stop_name": "Beach 67 St",
+    "stop_coordinates": "40.590927,-73.796924",
+    "n_ID": "H06N",
+    "s_ID": "H06S"
+  },
+  "H07": {
+    "stop_name": "Beach 60 St",
+    "stop_coordinates": "40.592374,-73.788522",
+    "n_ID": "H07N",
+    "s_ID": "H07S"
+  },
+  "H08": {
+    "stop_name": "Beach 44 St",
+    "stop_coordinates": "40.592943,-73.776013",
+    "n_ID": "H08N",
+    "s_ID": "H08S"
+  },
+  "H09": {
+    "stop_name": "Beach 36 St",
+    "stop_coordinates": "40.595398,-73.768175",
+    "n_ID": "H09N",
+    "s_ID": "H09S"
+  },
+  "H10": {
+    "stop_name": "Beach 25 St",
+    "stop_coordinates": "40.600066,-73.761353",
+    "n_ID": "H10N",
+    "s_ID": "H10S"
+  },
+  "H11": {
+    "stop_name": "Far Rockaway - Mott Av",
+    "stop_coordinates": "40.603995,-73.755405",
+    "n_ID": "H11N",
+    "s_ID": "H11S"
+  },
+  "H12": {
+    "stop_name": "Beach 90 St",
+    "stop_coordinates": "40.588034,-73.813641",
+    "n_ID": "H12N",
+    "s_ID": "H12S"
+  },
+  "H13": {
+    "stop_name": "Beach 98 St",
+    "stop_coordinates": "40.585307,-73.820558",
+    "n_ID": "H13N",
+    "s_ID": "H13S"
+  },
+  "H14": {
+    "stop_name": "Beach 105 St",
+    "stop_coordinates": "40.583209,-73.827559",
+    "n_ID": "H14N",
+    "s_ID": "H14S"
+  },
+  "H15": {
+    "stop_name": "Rockaway Park - Beach 116 St",
+    "stop_coordinates": "40.580903,-73.835592",
+    "n_ID": "H15N",
+    "s_ID": "H15S"
+  },
+  "J12": {
+    "stop_name": "121 St",
+    "stop_coordinates": "40.700492,-73.828294",
+    "n_ID": "J12N",
+    "s_ID": "J12S"
+  },
+  "J13": {
+    "stop_name": "111 St",
+    "stop_coordinates": "40.697418,-73.836345",
+    "n_ID": "J13N",
+    "s_ID": "J13S"
+  },
+  "J14": {
+    "stop_name": "104 St",
+    "stop_coordinates": "40.695178,-73.84433",
+    "n_ID": "J14N",
+    "s_ID": "J14S"
+  },
+  "J15": {
+    "stop_name": "Woodhaven Blvd",
+    "stop_coordinates": "40.693879,-73.851576",
+    "n_ID": "J15N",
+    "s_ID": "J15S"
+  },
+  "J16": {
+    "stop_name": "85 St - Forest Pkwy",
+    "stop_coordinates": "40.692435,-73.86001",
+    "n_ID": "J16N",
+    "s_ID": "J16S"
+  },
+  "J17": {
+    "stop_name": "75 St",
+    "stop_coordinates": "40.691324,-73.867139",
+    "n_ID": "J17N",
+    "s_ID": "J17S"
+  },
+  "J19": {
+    "stop_name": "Cypress Hills",
+    "stop_coordinates": "40.689941,-73.87255",
+    "n_ID": "J19N",
+    "s_ID": "J19S"
+  },
+  "J20": {
+    "stop_name": "Crescent St",
+    "stop_coordinates": "40.683194,-73.873785",
+    "n_ID": "J20N",
+    "s_ID": "J20S"
+  },
+  "J21": {
+    "stop_name": "Norwood Av",
+    "stop_coordinates": "40.68141,-73.880039",
+    "n_ID": "J21N",
+    "s_ID": "J21S"
+  },
+  "J22": {
+    "stop_name": "Cleveland St",
+    "stop_coordinates": "40.679947,-73.884639",
+    "n_ID": "J22N",
+    "s_ID": "J22S"
+  },
+  "J23": {
+    "stop_name": "Van Siclen Av",
+    "stop_coordinates": "40.678024,-73.891688",
+    "n_ID": "J23N",
+    "s_ID": "J23S"
+  },
+  "J24": {
+    "stop_name": "Alabama Av",
+    "stop_coordinates": "40.676992,-73.898654",
+    "n_ID": "J24N",
+    "s_ID": "J24S"
+  },
+  "J27": {
+    "stop_name": "Broadway Jct",
+    "stop_coordinates": "40.679498,-73.904512",
+    "n_ID": "J27N",
+    "s_ID": "J27S"
+  },
+  "J28": {
+    "stop_name": "Chauncey St",
+    "stop_coordinates": "40.682893,-73.910456",
+    "n_ID": "J28N",
+    "s_ID": "J28S"
+  },
+  "J29": {
+    "stop_name": "Halsey St",
+    "stop_coordinates": "40.68637,-73.916559",
+    "n_ID": "J29N",
+    "s_ID": "J29S"
+  },
+  "J30": {
+    "stop_name": "Gates Av",
+    "stop_coordinates": "40.68963,-73.92227",
+    "n_ID": "J30N",
+    "s_ID": "J30S"
+  },
+  "J31": {
+    "stop_name": "Kosciusko St",
+    "stop_coordinates": "40.693342,-73.928814",
+    "n_ID": "J31N",
+    "s_ID": "J31S"
+  },
+  "L01": {
+    "stop_name": "8 Av",
+    "stop_coordinates": "40.739777,-74.002578",
+    "n_ID": "L01N",
+    "s_ID": "L01S"
+  },
+  "L02": {
+    "stop_name": "6 Av",
+    "stop_coordinates": "40.737335,-73.996786",
+    "n_ID": "L02N",
+    "s_ID": "L02S"
+  },
+  "L03": {
+    "stop_name": "Union Sq - 14 St",
+    "stop_coordinates": "40.734789,-73.99073",
+    "n_ID": "L03N",
+    "s_ID": "L03S"
+  },
+  "L05": {
+    "stop_name": "3 Av",
+    "stop_coordinates": "40.732849,-73.986122",
+    "n_ID": "L05N",
+    "s_ID": "L05S"
+  },
+  "L06": {
+    "stop_name": "1 Av",
+    "stop_coordinates": "40.730953,-73.981628",
+    "n_ID": "L06N",
+    "s_ID": "L06S"
+  },
+  "L08": {
+    "stop_name": "Bedford Av",
+    "stop_coordinates": "40.717304,-73.956872",
+    "n_ID": "L08N",
+    "s_ID": "L08S"
+  },
+  "L10": {
+    "stop_name": "Lorimer St",
+    "stop_coordinates": "40.714063,-73.950275",
+    "n_ID": "L10N",
+    "s_ID": "L10S"
+  },
+  "L11": {
+    "stop_name": "Graham Av",
+    "stop_coordinates": "40.714565,-73.944053",
+    "n_ID": "L11N",
+    "s_ID": "L11S"
+  },
+  "L12": {
+    "stop_name": "Grand St",
+    "stop_coordinates": "40.711926,-73.94067",
+    "n_ID": "L12N",
+    "s_ID": "L12S"
+  },
+  "L13": {
+    "stop_name": "Montrose Av",
+    "stop_coordinates": "40.707739,-73.93985",
+    "n_ID": "L13N",
+    "s_ID": "L13S"
+  },
+  "L14": {
+    "stop_name": "Morgan Av",
+    "stop_coordinates": "40.706152,-73.933147",
+    "n_ID": "L14N",
+    "s_ID": "L14S"
+  },
+  "L15": {
+    "stop_name": "Jefferson St",
+    "stop_coordinates": "40.706607,-73.922913",
+    "n_ID": "L15N",
+    "s_ID": "L15S"
+  },
+  "L16": {
+    "stop_name": "DeKalb Av",
+    "stop_coordinates": "40.703811,-73.918425",
+    "n_ID": "L16N",
+    "s_ID": "L16S"
+  },
+  "L17": {
+    "stop_name": "Myrtle - Wyckoff Avs",
+    "stop_coordinates": "40.699814,-73.911586",
+    "n_ID": "L17N",
+    "s_ID": "L17S"
+  },
+  "L19": {
+    "stop_name": "Halsey St",
+    "stop_coordinates": "40.695602,-73.904084",
+    "n_ID": "L19N",
+    "s_ID": "L19S"
+  },
+  "L20": {
+    "stop_name": "Wilson Av",
+    "stop_coordinates": "40.688764,-73.904046",
+    "n_ID": "L20N",
+    "s_ID": "L20S"
+  },
+  "L21": {
+    "stop_name": "Bushwick Av - Aberdeen St",
+    "stop_coordinates": "40.682829,-73.905249",
+    "n_ID": "L21N",
+    "s_ID": "L21S"
+  },
+  "L22": {
+    "stop_name": "Broadway Jct",
+    "stop_coordinates": "40.678856,-73.90324",
+    "n_ID": "L22N",
+    "s_ID": "L22S"
+  },
+  "L24": {
+    "stop_name": "Atlantic Av",
+    "stop_coordinates": "40.675345,-73.903097",
+    "n_ID": "L24N",
+    "s_ID": "L24S"
+  },
+  "L25": {
+    "stop_name": "Sutter Av",
+    "stop_coordinates": "40.669367,-73.901975",
+    "n_ID": "L25N",
+    "s_ID": "L25S"
+  },
+  "L26": {
+    "stop_name": "Livonia Av",
+    "stop_coordinates": "40.664038,-73.900571",
+    "n_ID": "L26N",
+    "s_ID": "L26S"
+  },
+  "L27": {
+    "stop_name": "New Lots Av",
+    "stop_coordinates": "40.658733,-73.899232",
+    "n_ID": "L27N",
+    "s_ID": "L27S"
+  },
+  "L28": {
+    "stop_name": "E 105 St",
+    "stop_coordinates": "40.650573,-73.899485",
+    "n_ID": "L28N",
+    "s_ID": "L28S"
+  },
+  "L29": {
+    "stop_name": "Canarsie - Rockaway Pkwy",
+    "stop_coordinates": "40.646654,-73.90185",
+    "n_ID": "L29N",
+    "s_ID": "L29S"
+  },
+  "M01": {
+    "stop_name": "Middle Village - Metropolitan Av",
+    "stop_coordinates": "40.711396,-73.889601",
+    "n_ID": "M01N",
+    "s_ID": "M01S"
+  },
+  "M04": {
+    "stop_name": "Fresh Pond Rd",
+    "stop_coordinates": "40.706186,-73.895877",
+    "n_ID": "M04N",
+    "s_ID": "M04S"
+  },
+  "M05": {
+    "stop_name": "Forest Av",
+    "stop_coordinates": "40.704423,-73.903077",
+    "n_ID": "M05N",
+    "s_ID": "M05S"
+  },
+  "M06": {
+    "stop_name": "Seneca Av",
+    "stop_coordinates": "40.702762,-73.90774",
+    "n_ID": "M06N",
+    "s_ID": "M06S"
+  },
+  "M08": {
+    "stop_name": "Myrtle - Wyckoff Avs",
+    "stop_coordinates": "40.69943,-73.912385",
+    "n_ID": "M08N",
+    "s_ID": "M08S"
+  },
+  "M09": {
+    "stop_name": "Knickerbocker Av",
+    "stop_coordinates": "40.698664,-73.919711",
+    "n_ID": "M09N",
+    "s_ID": "M09S"
+  },
+  "M10": {
+    "stop_name": "Central Av",
+    "stop_coordinates": "40.697857,-73.927397",
+    "n_ID": "M10N",
+    "s_ID": "M10S"
+  },
+  "M11": {
+    "stop_name": "Myrtle Av",
+    "stop_coordinates": "40.697207,-73.935657",
+    "n_ID": "M11N",
+    "s_ID": "M11S"
+  },
+  "M12": {
+    "stop_name": "Flushing Av",
+    "stop_coordinates": "40.70026,-73.941126",
+    "n_ID": "M12N",
+    "s_ID": "M12S"
+  },
+  "M13": {
+    "stop_name": "Lorimer St",
+    "stop_coordinates": "40.703869,-73.947408",
+    "n_ID": "M13N",
+    "s_ID": "M13S"
+  },
+  "M14": {
+    "stop_name": "Hewes St",
+    "stop_coordinates": "40.70687,-73.953431",
+    "n_ID": "M14N",
+    "s_ID": "M14S"
+  },
+  "M16": {
+    "stop_name": "Marcy Av",
+    "stop_coordinates": "40.708359,-73.957757",
+    "n_ID": "M16N",
+    "s_ID": "M16S"
+  },
+  "M18": {
+    "stop_name": "Essex St",
+    "stop_coordinates": "40.718315,-73.987437",
+    "n_ID": "M18N",
+    "s_ID": "M18S"
+  },
+  "M19": {
+    "stop_name": "Bowery",
+    "stop_coordinates": "40.72028,-73.993915",
+    "n_ID": "M19N",
+    "s_ID": "M19S"
+  },
+  "M20": {
+    "stop_name": "Canal St",
+    "stop_coordinates": "40.718092,-73.999892",
+    "n_ID": "M20N",
+    "s_ID": "M20S"
+  },
+  "M21": {
+    "stop_name": "Chambers St",
+    "stop_coordinates": "40.713243,-74.003401",
+    "n_ID": "M21N",
+    "s_ID": "M21S"
+  },
+  "M22": {
+    "stop_name": "Fulton St",
+    "stop_coordinates": "40.710374,-74.007582",
+    "n_ID": "M22N",
+    "s_ID": "M22S"
+  },
+  "M23": {
+    "stop_name": "Broad St",
+    "stop_coordinates": "40.706476,-74.011056",
+    "n_ID": "M23N",
+    "s_ID": "M23S"
+  },
+  "N02": {
+    "stop_name": "8 Av",
+    "stop_coordinates": "40.635064,-74.011719",
+    "n_ID": "N02N",
+    "s_ID": "N02S"
+  },
+  "N03": {
+    "stop_name": "Fort Hamilton Pkwy",
+    "stop_coordinates": "40.631386,-74.005351",
+    "n_ID": "N03N",
+    "s_ID": "N03S"
+  },
+  "N04": {
+    "stop_name": "New Utrecht Av",
+    "stop_coordinates": "40.624842,-73.996353",
+    "n_ID": "N04N",
+    "s_ID": "N04S"
+  },
+  "N05": {
+    "stop_name": "18 Av",
+    "stop_coordinates": "40.620671,-73.990414",
+    "n_ID": "N05N",
+    "s_ID": "N05S"
+  },
+  "N06": {
+    "stop_name": "20 Av",
+    "stop_coordinates": "40.61741,-73.985026",
+    "n_ID": "N06N",
+    "s_ID": "N06S"
+  },
+  "N07": {
+    "stop_name": "Bay Pkwy",
+    "stop_coordinates": "40.611815,-73.981848",
+    "n_ID": "N07N",
+    "s_ID": "N07S"
+  },
+  "N08": {
+    "stop_name": "Kings Hwy",
+    "stop_coordinates": "40.603923,-73.980353",
+    "n_ID": "N08N",
+    "s_ID": "N08S"
+  },
+  "N09": {
+    "stop_name": "Avenue U",
+    "stop_coordinates": "40.597473,-73.979137",
+    "n_ID": "N09N",
+    "s_ID": "N09S"
+  },
+  "N10": {
+    "stop_name": "86 St",
+    "stop_coordinates": "40.592721,-73.97823",
+    "n_ID": "N10N",
+    "s_ID": "N10S"
+  },
+  "Q01": {
+    "stop_name": "Canal St",
+    "stop_coordinates": "40.718383,-74.00046",
+    "n_ID": "Q01N",
+    "s_ID": "Q01S"
+  },
+  "R01": {
+    "stop_name": "Astoria - Ditmars Blvd",
+    "stop_coordinates": "40.775036,-73.912034",
+    "n_ID": "R01N",
+    "s_ID": "R01S"
+  },
+  "R03": {
+    "stop_name": "Astoria Blvd",
+    "stop_coordinates": "40.770258,-73.917843",
+    "n_ID": "R03N",
+    "s_ID": "R03S"
+  },
+  "R04": {
+    "stop_name": "30 Av",
+    "stop_coordinates": "40.766779,-73.921479",
+    "n_ID": "R04N",
+    "s_ID": "R04S"
+  },
+  "R05": {
+    "stop_name": "Broadway",
+    "stop_coordinates": "40.76182,-73.925508",
+    "n_ID": "R05N",
+    "s_ID": "R05S"
+  },
+  "R06": {
+    "stop_name": "36 Av",
+    "stop_coordinates": "40.756804,-73.929575",
+    "n_ID": "R06N",
+    "s_ID": "R06S"
+  },
+  "R08": {
+    "stop_name": "39 Av",
+    "stop_coordinates": "40.752882,-73.932755",
+    "n_ID": "R08N",
+    "s_ID": "R08S"
+  },
+  "R09": {
+    "stop_name": "Queensboro Plaza",
+    "stop_coordinates": "40.750582,-73.940202",
+    "n_ID": "R09N",
+    "s_ID": "R09S"
+  },
+  "R11": {
+    "stop_name": "Lexington Av/59 St",
+    "stop_coordinates": "40.76266,-73.967258",
+    "n_ID": "R11N",
+    "s_ID": "R11S"
+  },
+  "R13": {
+    "stop_name": "5 Av/59 St",
+    "stop_coordinates": "40.764811,-73.973347",
+    "n_ID": "R13N",
+    "s_ID": "R13S"
+  },
+  "R14": {
+    "stop_name": "57 St - 7 Av",
+    "stop_coordinates": "40.764664,-73.980658",
+    "n_ID": "R14N",
+    "s_ID": "R14S"
+  },
+  "R15": {
+    "stop_name": "49 St",
+    "stop_coordinates": "40.759901,-73.984139",
+    "n_ID": "R15N",
+    "s_ID": "R15S"
+  },
+  "R16": {
+    "stop_name": "Times Sq - 42 St",
+    "stop_coordinates": "40.754672,-73.986754",
+    "n_ID": "R16N",
+    "s_ID": "R16S"
+  },
+  "R17": {
+    "stop_name": "34 St - Herald Sq",
+    "stop_coordinates": "40.749567,-73.98795",
+    "n_ID": "R17N",
+    "s_ID": "R17S"
+  },
+  "R18": {
+    "stop_name": "28 St",
+    "stop_coordinates": "40.745494,-73.988691",
+    "n_ID": "R18N",
+    "s_ID": "R18S"
+  },
+  "R19": {
+    "stop_name": "23 St",
+    "stop_coordinates": "40.741303,-73.989344",
+    "n_ID": "R19N",
+    "s_ID": "R19S"
+  },
+  "R20": {
+    "stop_name": "14 St - Union Sq",
+    "stop_coordinates": "40.735736,-73.990568",
+    "n_ID": "R20N",
+    "s_ID": "R20S"
+  },
+  "R21": {
+    "stop_name": "8 St - NYU",
+    "stop_coordinates": "40.730328,-73.992629",
+    "n_ID": "R21N",
+    "s_ID": "R21S"
+  },
+  "R22": {
+    "stop_name": "Prince St",
+    "stop_coordinates": "40.724329,-73.997702",
+    "n_ID": "R22N",
+    "s_ID": "R22S"
+  },
+  "R23": {
+    "stop_name": "Canal St",
+    "stop_coordinates": "40.719527,-74.001775",
+    "n_ID": "R23N",
+    "s_ID": "R23S"
+  },
+  "R24": {
+    "stop_name": "City Hall",
+    "stop_coordinates": "40.713282,-74.006978",
+    "n_ID": "R24N",
+    "s_ID": "R24S"
+  },
+  "R25": {
+    "stop_name": "Cortlandt St",
+    "stop_coordinates": "40.710668,-74.011029",
+    "n_ID": "R25N",
+    "s_ID": "R25S"
+  },
+  "R26": {
+    "stop_name": "Rector St",
+    "stop_coordinates": "40.70722,-74.013342",
+    "n_ID": "R26N",
+    "s_ID": "R26S"
+  },
+  "R27": {
+    "stop_name": "Whitehall St",
+    "stop_coordinates": "40.703087,-74.012994",
+    "n_ID": "R27N",
+    "s_ID": "R27S"
+  },
+  "R28": {
+    "stop_name": "Court St",
+    "stop_coordinates": "40.6941,-73.991777",
+    "n_ID": "R28N",
+    "s_ID": "R28S"
+  },
+  "R29": {
+    "stop_name": "Jay St - MetroTech",
+    "stop_coordinates": "40.69218,-73.985942",
+    "n_ID": "R29N",
+    "s_ID": "R29S"
+  },
+  "R30": {
+    "stop_name": "DeKalb Av",
+    "stop_coordinates": "40.690635,-73.981824",
+    "n_ID": "R30N",
+    "s_ID": "R30S"
+  },
+  "R31": {
+    "stop_name": "Atlantic Av - Barclays Ctr",
+    "stop_coordinates": "40.683666,-73.97881",
+    "n_ID": "R31N",
+    "s_ID": "R31S"
+  },
+  "R32": {
+    "stop_name": "Union St",
+    "stop_coordinates": "40.677316,-73.98311",
+    "n_ID": "R32N",
+    "s_ID": "R32S"
+  },
+  "R33": {
+    "stop_name": "9 St",
+    "stop_coordinates": "40.670847,-73.988302",
+    "n_ID": "R33N",
+    "s_ID": "R33S"
+  },
+  "R34": {
+    "stop_name": "Prospect Av",
+    "stop_coordinates": "40.665414,-73.992872",
+    "n_ID": "R34N",
+    "s_ID": "R34S"
+  },
+  "R35": {
+    "stop_name": "25 St",
+    "stop_coordinates": "40.660397,-73.998091",
+    "n_ID": "R35N",
+    "s_ID": "R35S"
+  },
+  "R36": {
+    "stop_name": "36 St",
+    "stop_coordinates": "40.655144,-74.003549",
+    "n_ID": "R36N",
+    "s_ID": "R36S"
+  },
+  "R39": {
+    "stop_name": "45 St",
+    "stop_coordinates": "40.648939,-74.010006",
+    "n_ID": "R39N",
+    "s_ID": "R39S"
+  },
+  "R40": {
+    "stop_name": "53 St",
+    "stop_coordinates": "40.645069,-74.014034",
+    "n_ID": "R40N",
+    "s_ID": "R40S"
+  },
+  "R41": {
+    "stop_name": "59 St",
+    "stop_coordinates": "40.641362,-74.017881",
+    "n_ID": "R41N",
+    "s_ID": "R41S"
+  },
+  "R42": {
+    "stop_name": "Bay Ridge Av",
+    "stop_coordinates": "40.634967,-74.023377",
+    "n_ID": "R42N",
+    "s_ID": "R42S"
+  },
+  "R43": {
+    "stop_name": "77 St",
+    "stop_coordinates": "40.629742,-74.02551",
+    "n_ID": "R43N",
+    "s_ID": "R43S"
+  },
+  "R44": {
+    "stop_name": "86 St",
+    "stop_coordinates": "40.622687,-74.028398",
+    "n_ID": "R44N",
+    "s_ID": "R44S"
+  },
+  "R45": {
+    "stop_name": "Bay Ridge - 95 St",
+    "stop_coordinates": "40.616622,-74.030876",
+    "n_ID": "R45N",
+    "s_ID": "R45S"
+  },
+  "S01": {
+    "stop_name": "Franklin Av",
+    "stop_coordinates": "40.680596,-73.955827",
+    "n_ID": "S01N",
+    "s_ID": "S01S"
+  },
+  "S03": {
+    "stop_name": "Park Pl",
+    "stop_coordinates": "40.674772,-73.957624",
+    "n_ID": "S03N",
+    "s_ID": "S03S"
+  },
+  "S04": {
+    "stop_name": "Botanic Garden",
+    "stop_coordinates": "40.670343,-73.959245",
+    "n_ID": "S04N",
+    "s_ID": "S04S"
+  },
+  "S09": {
+    "stop_name": "Tottenville",
+    "stop_coordinates": "40.512764,-74.251961",
+    "n_ID": "S09N",
+    "s_ID": "S09S"
+  },
+  "S10": {
+    "stop_name": "Atlantic",
+    "stop_coordinates": "40.515401,-74.245689",
+    "n_ID": "S10N",
+    "s_ID": "S10S"
+  },
+  "S12": {
+    "stop_name": "Nassau",
+    "stop_coordinates": "40.517812,-74.238373",
+    "n_ID": "S12N",
+    "s_ID": "S12S"
+  },
+  "S13": {
+    "stop_name": "Richmond Valley",
+    "stop_coordinates": "40.519631,-74.229141",
+    "n_ID": "S13N",
+    "s_ID": "S13S"
+  },
+  "S14": {
+    "stop_name": "Pleasant Plains",
+    "stop_coordinates": "40.52241,-74.217847",
+    "n_ID": "S14N",
+    "s_ID": "S14S"
+  },
+  "S15": {
+    "stop_name": "Prince's Bay",
+    "stop_coordinates": "40.525507,-74.200064",
+    "n_ID": "S15N",
+    "s_ID": "S15S"
+  },
+  "S16": {
+    "stop_name": "Huguenot",
+    "stop_coordinates": "40.533674,-74.191794",
+    "n_ID": "S16N",
+    "s_ID": "S16S"
+  },
+  "S17": {
+    "stop_name": "Annadale",
+    "stop_coordinates": "40.54046,-74.178217",
+    "n_ID": "S17N",
+    "s_ID": "S17S"
+  },
+  "S18": {
+    "stop_name": "Eltingville",
+    "stop_coordinates": "40.544601,-74.16457",
+    "n_ID": "S18N",
+    "s_ID": "S18S"
+  },
+  "S19": {
+    "stop_name": "Great Kills",
+    "stop_coordinates": "40.551231,-74.151399",
+    "n_ID": "S19N",
+    "s_ID": "S19S"
+  },
+  "S20": {
+    "stop_name": "Bay Terrace",
+    "stop_coordinates": "40.5564,-74.136907",
+    "n_ID": "S20N",
+    "s_ID": "S20S"
+  },
+  "S21": {
+    "stop_name": "Oakwood Heights",
+    "stop_coordinates": "40.56511,-74.12632",
+    "n_ID": "S21N",
+    "s_ID": "S21S"
+  },
+  "S22": {
+    "stop_name": "New Dorp",
+    "stop_coordinates": "40.57348,-74.11721",
+    "n_ID": "S22N",
+    "s_ID": "S22S"
+  },
+  "S23": {
+    "stop_name": "Grant City",
+    "stop_coordinates": "40.578965,-74.109704",
+    "n_ID": "S23N",
+    "s_ID": "S23S"
+  },
+  "S24": {
+    "stop_name": "Jefferson Av",
+    "stop_coordinates": "40.583591,-74.103338",
+    "n_ID": "S24N",
+    "s_ID": "S24S"
+  },
+  "S25": {
+    "stop_name": "Dongan Hills",
+    "stop_coordinates": "40.588849,-74.09609",
+    "n_ID": "S25N",
+    "s_ID": "S25S"
+  },
+  "S26": {
+    "stop_name": "Old Town",
+    "stop_coordinates": "40.596612,-74.087368",
+    "n_ID": "S26N",
+    "s_ID": "S26S"
+  },
+  "S27": {
+    "stop_name": "Grasmere",
+    "stop_coordinates": "40.603117,-74.084087",
+    "n_ID": "S27N",
+    "s_ID": "S27S"
+  },
+  "S28": {
+    "stop_name": "Clifton",
+    "stop_coordinates": "40.621319,-74.071402",
+    "n_ID": "S28N",
+    "s_ID": "S28S"
+  },
+  "S29": {
+    "stop_name": "Stapleton",
+    "stop_coordinates": "40.627915,-74.075162",
+    "n_ID": "S29N",
+    "s_ID": "S29S"
+  },
+  "S30": {
+    "stop_name": "Tompkinsville",
+    "stop_coordinates": "40.636949,-74.074835",
+    "n_ID": "S30N",
+    "s_ID": "S30S"
+  },
+  "S31": {
+    "stop_name": "St George",
+    "stop_coordinates": "40.643748,-74.073643",
+    "n_ID": "S31N",
+    "s_ID": "S31S"
+  }
+}
