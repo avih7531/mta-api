@@ -4,6 +4,7 @@ import json
 import math
 from underground import SubwayFeed, metadata
 from datetime import datetime
+import os
 
 app = Flask(__name__)
 CORS(app)
@@ -100,6 +101,24 @@ def find_nearest_station(user_lat, user_lon):
     
     return nearest_station
 
+def get_line_icon(route):
+    """Get the SVG icon for a specific route"""
+    try:
+        # Handle special cases
+        if route == 'FS':
+            route = 'S'  # Franklin Shuttle uses S icon
+        elif route == 'GS':
+            route = 'S'  # Grand Central Shuttle uses S icon
+            
+        icon_path = f"./icons/{route.lower()}.svg"
+        if os.path.exists(icon_path):
+            with open(icon_path, 'r') as f:
+                return f.read()
+        return None
+    except Exception as e:
+        print(f"Error reading icon for route {route}: {e}")
+        return None
+
 @app.route('/nearest-station', methods=['GET'])
 def get_nearest_station():
     try:
@@ -127,9 +146,12 @@ def get_nearest_station():
                     # Get departures for this route
                     departures = get_departures(nearest['id'], route)
                     if departures['north'] or departures['south']:  # Only add routes that have departures
+                        # Get the SVG icon for this route
+                        icon = get_line_icon(route)
                         serving_routes.append({
                             'route': route,
-                            'departures': departures
+                            'departures': departures,
+                            'icon': icon
                         })
             
             # Format the response for easy display in Shortcuts
@@ -144,7 +166,8 @@ def get_nearest_station():
                 train_info = {
                     'line': route_info['route'],
                     'northbound': ' → '.join(route_info['departures']['north']) if route_info['departures']['north'] else 'No trains',
-                    'southbound': ' → '.join(route_info['departures']['south']) if route_info['departures']['south'] else 'No trains'
+                    'southbound': ' → '.join(route_info['departures']['south']) if route_info['departures']['south'] else 'No trains',
+                    'icon': route_info['icon']
                 }
                 formatted_response['trains'].append(train_info)
             
